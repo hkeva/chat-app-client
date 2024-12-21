@@ -26,7 +26,7 @@ const Register = () => {
     handleSubmit,
     formState: { errors },
     setError,
-  } = useForm();
+  } = useForm<IUser>();
 
   const onSubmit = async (formData: IUser) => {
     setLoading(true);
