@@ -1,1 +1,1 @@
-export const backendUrl = "https://chat-app-server-dun-iota.vercel.app/";
+export const backendUrl = "https://chat-app-server-dun-iota.vercel.app";
